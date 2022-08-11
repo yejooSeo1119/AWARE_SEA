@@ -523,7 +523,7 @@ h2{
         display: none;
     }
     .about ul{
-        width: 350px;
+        width: 300px;
         height: 700px;
         flex-direction: column;
     }
