@@ -944,7 +944,8 @@ button:hover{
 
 @media (min-width:751px) and (max-width:930px){
     #section4{
-        height: 800px;
+        width: 95%;
+        height: 600px;
     }
     .slide h1{
         margin: 250px 0 0 20px;
@@ -958,7 +959,7 @@ button:hover{
         top: 250px;
     }
     .slide .icon{
-        right: 200px;
+        right: 100px;
         top: 300px;
     }
     /* 슬라이드 */
